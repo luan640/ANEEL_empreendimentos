@@ -1,1 +1,1 @@
-# ANEEL_empreendimentos
+# Pequena análise exploratória sobre uma base de empreendimentos da Agência Nacional de Energia Elétrica onde é conhecida como uma autarquia sob regime especial, vinculada ao Ministério de Minas e Energia, com sede e foro no Distrito Federal
